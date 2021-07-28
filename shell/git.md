@@ -208,6 +208,9 @@ git remote -v
 git remote rm origin
 git remote add origin [url-path]
 git push --set-upstream [url-path]
+
+# Prune all unreachable objects from the remote object database
+git remote prune origin
 ```
 
 [⬆ back to top](#table-of-contents)
