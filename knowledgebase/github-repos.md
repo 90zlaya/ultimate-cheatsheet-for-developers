@@ -67,6 +67,14 @@ Vue 2 Datepicker | https://github.com/mengxiong10/vue2-datepicker
 
 [⬆ back to top](#table-of-contents)
 
+## Next.js
+
+Name | URL
+------------- | -------------
+Next.js SEO| https://github.com/garmeeh/next-seo
+
+[⬆ back to top](#table-of-contents)
+
 ## JavaScript
 
 Name | URL
@@ -113,6 +121,7 @@ Mailer | https://github.com/PHPMailer/PHPMailer
 Viber Bot | https://github.com/Bogdaan/viber-bot-php
 CodeIgniter RESTServer | https://github.com/chriskacerguis/codeigniter-restserver
 Guzzle, PHP HTTP client | https://github.com/guzzle/guzzle
+Larastan, Laravel static analysis | https://github.com/nunomaduro/larastan
 
 [⬆ back to top](#table-of-contents)
 
