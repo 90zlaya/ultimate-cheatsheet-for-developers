@@ -6,8 +6,10 @@
 * [Misc](#misc)
 * [Cheatsheets](#cheatsheets)
 * [CSS](#css)
-* [Vue.js](#vuejs)
 * [JavaScript](#javascript)
+    * [React](#react)
+    * [Next.js](#nextjs)
+    * [Vue.js](#vuejs)
 * [PHP](#php)
     * [PHP Misc](#php-misc)
     * [PHP Frameworks](#php-frameworks)
@@ -56,25 +58,6 @@ CSS Hexagons | https://github.com/shariarbd/CSS3-Hexagon-Buttons
 
 [⬆ back to top](#table-of-contents)
 
-## Vue.js
-
-Name | URL
-------------- | -------------
-Awesome things for Vue.js| https://github.com/vuejs/awesome-vue
-Lazyload | https://github.com/hilongjw/vue-lazyload
-Multiselect | https://github.com/shentao/vue-multiselect
-Vue 2 Datepicker | https://github.com/mengxiong10/vue2-datepicker
-
-[⬆ back to top](#table-of-contents)
-
-## Next.js
-
-Name | URL
-------------- | -------------
-Next.js SEO| https://github.com/garmeeh/next-seo
-
-[⬆ back to top](#table-of-contents)
-
 ## JavaScript
 
 Name | URL
@@ -83,6 +66,34 @@ Vanilla Projects| https://github.com/bradtraversy/vanillawebprojects
 33 Concepts | https://github.com/leonardomso/33-js-concepts
 Luxon: Dates and Times| https://github.com/moment/luxon
 Obfuscator | https://github.com/javascript-obfuscator/javascript-obfuscator
+
+[⬆ back to top](#table-of-contents)
+
+### React
+
+Name | URL
+------------- | -------------
+React Multi Carousel | https://github.com/YIZHUANG/react-multi-carousel
+React Modal Video | https://github.com/appleple/react-modal-video
+
+[⬆ back to top](#table-of-contents)
+
+### Next.js
+
+Name | URL
+------------- | -------------
+Next.js SEO | https://github.com/garmeeh/next-seo
+
+[⬆ back to top](#table-of-contents)
+
+### Vue.js
+
+Name | URL
+------------- | -------------
+Awesome things for Vue.js| https://github.com/vuejs/awesome-vue
+Lazyload | https://github.com/hilongjw/vue-lazyload
+Multiselect | https://github.com/shentao/vue-multiselect
+Vue 2 Datepicker | https://github.com/mengxiong10/vue2-datepicker
 
 [⬆ back to top](#table-of-contents)
 
