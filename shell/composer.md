@@ -49,6 +49,9 @@ composer validate
 
 # Executes a vendored binary/script (same as bash [script])
 composer exec [script]
+
+# Shows a list of installed packages that have updates available
+composer outdated
 ```
 
 [⬆ back to top](#table-of-contents)
