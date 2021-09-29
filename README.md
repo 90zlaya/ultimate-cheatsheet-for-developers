@@ -4,7 +4,6 @@
 ## Main Table of Contents
 
 * [Shell](shell/README.md)
-* [JavaScript](js/README.md)
 * [PHP](php/README.md)
 * [MySQL](mysql/README.md)
 * [Knowledgebase](knowledgebase/README.md)
