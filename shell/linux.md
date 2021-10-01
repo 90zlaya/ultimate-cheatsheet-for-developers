@@ -7,7 +7,7 @@ Read more about [Linux](https://www.linux.org/).
 
 * [Misc](#misc)
 * [Useful](#useful)
-* [apt](#apt)
+* [Advanced Package Tool](#advanced-package-tool)
 * [Directory](#directory)
 * [File](#file)
 * [Aliases](#aliases)
@@ -70,7 +70,7 @@ tree
 
 [⬆ back to top](#table-of-contents)
 
-## apt
+## Advanced Package Tool
 
 ```bash
 # Search packages

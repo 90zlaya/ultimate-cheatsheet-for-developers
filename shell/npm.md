@@ -1,7 +1,7 @@
-# NPM
+# npm
 > Default package manager for the JavaScript runtime environment Node.js
 
-Read more about [NPM](https://www.npmjs.com/).
+Read more about [npm](https://www.npmjs.com/).
 
 ## Table of Contents
 

@@ -3,7 +3,7 @@
 
 ## Table of Contents
 
-* [Uncategorized](#uncategorized)
+* [Misc](#misc)
 * [Apps](#apps)
 * [Courses](#courses)
 * [Images and Files](#images-and-files)
@@ -15,7 +15,7 @@
 
 [↩ back to list of cheatsheets](README.md#list-of-cheatsheets)
 
-## Uncategorized
+## Misc
 
 Name | URL
 ------------- | -------------

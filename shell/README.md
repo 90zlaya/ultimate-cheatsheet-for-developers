@@ -12,7 +12,7 @@ Read more about [Unix shell](https://en.wikipedia.org/wiki/Unix_shell.md).
 * [cURL](curl.md)
 * [npm](npm.md)
 * [youtube-dl](youtube-dl.md)
-* [vue-cli](vue-cli.md)
+* [Vue CLI](vue-cli.md)
 * [MySQL](mysql.md)
 * [PHP](php.md)
 
