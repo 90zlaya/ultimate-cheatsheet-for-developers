@@ -14,7 +14,6 @@
     * [PHP Misc](#php-misc)
     * [PHP Frameworks](#php-frameworks)
     * [PHP Libraries](#php-libraries)
-* [Zendesk](#zendesk)
 
 [↩ back to list of cheatsheets](README.md#list-of-cheatsheets)
 
@@ -133,14 +132,5 @@ Viber Bot | https://github.com/Bogdaan/viber-bot-php
 CodeIgniter RESTServer | https://github.com/chriskacerguis/codeigniter-restserver
 Guzzle, PHP HTTP client | https://github.com/guzzle/guzzle
 Larastan, Laravel static analysis | https://github.com/nunomaduro/larastan
-
-[⬆ back to top](#table-of-contents)
-
-## Zendesk
-
-Name | URL
-------------- | -------------
-PHP API Client | https://github.com/zendesk/zendesk_api_client_php
-App Framework SDK | https://github.com/zendesk/zendesk_app_framework_sdk
 
 [⬆ back to top](#table-of-contents)
