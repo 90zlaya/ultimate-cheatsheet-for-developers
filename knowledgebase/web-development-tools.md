@@ -105,6 +105,7 @@ JavaScript | http://beautifytools.com/javascript-validator.php
 JS Syntax | https://esprima.org/demo/validate.html
 JSON | https://jsonlint.com/
 XML | https://www.xmlvalidation.com/
+JWT | https://jwt.io/
 
 [⬆ back to top](#table-of-contents)
 
