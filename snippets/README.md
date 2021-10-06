@@ -11,6 +11,12 @@
     * [Nullish Coalescing](js/nullish-coalescing.js)
     * [Optional Chaining](js/optional-chaining.js)
     * [Sort By Date](js/sort-by-date.js)
+    * Array Methods
+        * [Data Object](js/array-methods/data-object.js)
+        * [Find Method](js/array-methods/find-method.js)
+        * [Filter Method](js/array-methods/filter-method.js)
+        * [Map Method](js/array-methods/map-method.js)
+        * [Reduce Method](js/array-methods/reduce-method.js)
 * **PHP**
     * [Copy Array](php/copy-array.php)
     * [Prime Numbers](php/prime-numbers.php)
