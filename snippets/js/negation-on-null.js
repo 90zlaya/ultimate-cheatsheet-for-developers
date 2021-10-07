@@ -3,7 +3,8 @@
  * to the variable which could be true or false but it's actually
  * set as null
  * 
- * @author 90zlaya <contact@zlatanstajic.com>
+ * @author Zlatan Stajic <contact@zlatanstajic.com>
+ * @since 2021-10-07
  */
 
 // Variable which has null instead of true or false
