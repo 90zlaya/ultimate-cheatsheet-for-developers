@@ -8,6 +8,7 @@
     * [Implementing Queue Using Stack](js/implementing-queue-using-stack.js)
     * [Prime Numbers](js/prime-numbers.js)
     * [Remove Duplicates](js/remove-duplicates.js)
+    * [Negation on NULL](js/negation-on-null.js)
     * [Nullish Coalescing](js/nullish-coalescing.js)
     * [Optional Chaining](js/optional-chaining.js)
     * [Sort By Date](js/sort-by-date.js)
