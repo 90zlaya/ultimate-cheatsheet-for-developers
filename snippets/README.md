@@ -18,6 +18,7 @@
     * [Prime Numbers](js/prime-numbers.js)
     * [Remove Duplicates](js/remove-duplicates.js)
     * [Sort By Date](js/sort-by-date.js)
+    * [Undefined in IF statement](js/undefined-in-if-statement.js)
 * **PHP**
     * [Array Destructuring Multidimensional](php/array-destructuring-multidimensional.php)
     * [Array Destructuring Single Dimension](php/array-destructuring-single-dimension.php)
