@@ -23,6 +23,7 @@
     * [Array Destructuring Multidimensional](php/array-destructuring-multidimensional.php)
     * [Array Destructuring Single Dimension](php/array-destructuring-single-dimension.php)
     * [Array Map](php/array-map.php)
+    * [Casting Strings](php/casting-strings.php)
     * [Copy Array](php/copy-array.php)
     * [Nullish Coalescing](php/nullish-coalescing.php)
     * [Prime Numbers](php/prime-numbers.php)
