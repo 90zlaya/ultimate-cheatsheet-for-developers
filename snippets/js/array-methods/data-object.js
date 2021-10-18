@@ -1,4 +1,10 @@
-// List of F1 Champions with 4 or more championships
+/**
+ * List of F1 Champions with 4 or more championships
+ * 
+ * @author Zlatan Stajic <contact@zlatanstajic.com>
+ * @since 2021-02-25
+ */
+
 module.exports = [
     {
         name: 'Michael Schumacher',
