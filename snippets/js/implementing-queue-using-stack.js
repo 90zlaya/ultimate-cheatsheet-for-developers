@@ -1,12 +1,33 @@
-let mainStack = []
+/**
+ * Implementing queue using stack
+ * 
+ * @author Zlatan Stajic <contact@zlatanstajic.com>
+ * @since 2021-02-22
+ */
 
-const enque = (enquedValue) => {
-    mainStack.push(enquedValue);
+// Main stack
+let mainStack = [];
+
+/**
+ * Pushes passed value to the main stack
+ * 
+ * @param any value 
+ */
+const enque = (value) => {
+    mainStack.push(value);
 }
 
+/**
+ * Pops last item from queue
+ * 
+ * @returns any dequedValue
+ */
 const deque = () => {
+    // Reverse main stack
     const tempStack = [...mainStack.reverse()];
+    // Get last value
     const dequedValue = tempStack.pop();
+    // Update main stack 
     mainStack = [...tempStack.reverse()];
     return dequedValue;
 };
