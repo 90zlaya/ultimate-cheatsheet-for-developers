@@ -1,4 +1,10 @@
 <?php
+/**
+ * Demonstrating destructuring of the multi-dimension array
+ * 
+ * @author Zlatan Stajic <contact@zlatanstajic.com>
+ * @since 2021-02-26
+ */
 
 // Multidimensional array
 $superheroes = [
@@ -26,6 +32,6 @@ $superheroes = [
 [
     'male' => $male,
     'female' => $female
-] = $superheroes;
+] = $superheroes; // PHP 7.4 syntax
 
 var_dump($male, $female);
