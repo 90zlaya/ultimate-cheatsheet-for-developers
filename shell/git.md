@@ -12,13 +12,17 @@ Read more about [Git](https://git-scm.com/).
 * [Branches](#branches)
 * [Users](#users)
 * [Remote](#remote)
+* [Alias](#alias)
 
 [↩ back to list of cheatsheets](README.md#list-of-cheatsheets)
 
 ## Misc
 
 ```bash
-# Get version of Git
+# Access configuration
+nano ~/.gitconfig 
+
+# Get version
 git version
 
 # Initialize repository
@@ -174,6 +178,12 @@ git branch --no-merged
 
 # Create empty branch
 git checkout --orphan empty-branch && git rm -rf . && git commit --allow-empty -m "Initial commit" && git push -u origin empty-branch
+
+# List all branches in local which are gone on remote
+git branch -vv | awk '/: gone]/{print $1}'
+
+# Delete all branches locally which are gone on remote
+git branch -vv | awk '/: gone]/{print $1}' | xargs git branch -d
 ```
 
 [⬆ back to top](#table-of-contents)
@@ -211,6 +221,21 @@ git push --set-upstream [url-path]
 
 # Prune all unreachable objects from the remote object database
 git remote prune origin
+```
+
+[⬆ back to top](#table-of-contents)
+
+## Alias
+
+```bash
+# List all aliases
+git config --get-regexp alias
+
+# Set alias
+git config --global alias.[alias-name] '[command]'
+
+# Display content of specific alias
+git config --global --unset alias.[alias-name]
 ```
 
 [⬆ back to top](#table-of-contents)
