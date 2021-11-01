@@ -26,6 +26,7 @@
     * [Casting Strings](php/casting-strings.php)
     * [Copy Array](php/copy-array.php)
     * [Nullish Coalescing](php/nullish-coalescing.php)
+    * [Preg Match](php/preg-match.php)
     * [Prime Numbers](php/prime-numbers.php)
     * [Remove Duplicates](php/remove-duplicates.php)
 
