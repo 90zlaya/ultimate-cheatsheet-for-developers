@@ -3,10 +3,10 @@
 
 ## Main Table of Contents
 
-* [Shell](shell/README.md)
-* [PHP](php/README.md)
-* [MySQL](mysql/README.md)
 * [Knowledgebase](knowledgebase/README.md)
+* [MySQL](mysql/README.md)
+* [PHP](php/README.md)
+* [Shell](shell/README.md)
 * [Snippets](snippets/README.md)
 
 ## Inspiration
