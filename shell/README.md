@@ -5,15 +5,15 @@ Read more about [Unix shell](https://en.wikipedia.org/wiki/Unix_shell.md).
 
 ## List of Cheatsheets
 
-* [Linux](linux.md)
-* [Git](git.md)
-* [SVN](svn.md)
 * [Composer](composer.md)
 * [cURL](curl.md)
-* [npm](npm.md)
-* [youtube-dl](youtube-dl.md)
-* [Vue CLI](vue-cli.md)
+* [Git](git.md)
+* [Linux](linux.md)
 * [MySQL](mysql.md)
+* [npm](npm.md)
 * [PHP](php.md)
+* [SVN](svn.md)
+* [Vue CLI](vue-cli.md)
+* [youtube-dl](youtube-dl.md)
 
 [↩ back to main table of contents](../README.md#main-table-of-contents)

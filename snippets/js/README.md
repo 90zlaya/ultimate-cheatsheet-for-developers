@@ -7,8 +7,8 @@ Use in console by running `node [path-to-the-snippet]/[snippet-name].js`.
 
 * Array Methods
     * [Data Object](array-methods/data-object.js)
-    * [Find Method](array-methods/find-method.js)
     * [Filter Method](array-methods/filter-method.js)
+    * [Find Method](array-methods/find-method.js)
     * [Map Method](array-methods/map-method.js)
     * [Reduce Method](array-methods/reduce-method.js)
 * [Copy Array](copy-array.js)
