@@ -17,9 +17,6 @@ node -v
 
 # Syntax check (lint)
 node -c [path-to-the-file]
-
-# Inspecting NodeJS App With Chrome Devtools
-node -i [path-to-the-file]
 ```
 
 [⬆ back to top](#table-of-contents)
