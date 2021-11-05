@@ -10,6 +10,7 @@ Read more about [Unix shell](https://en.wikipedia.org/wiki/Unix_shell.md).
 * [Git](git.md)
 * [Linux](linux.md)
 * [MySQL](mysql.md)
+* [Node](node.md)
 * [npm](npm.md)
 * [PHP](php.md)
 * [SVN](svn.md)
