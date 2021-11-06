@@ -13,7 +13,7 @@ See [Node shell cheatsheet](../../shell/node.md) for more info.
     * [Map Method](array-methods/map-method.js)
     * [Reduce Method](array-methods/reduce-method.js)
 * [Copy Array](copy-array.js)
-* [Implementing Queue Using Stack](implementing-queue-using-stackjs)
+* [Implementing Queue Using Stack](implementing-queue-using-stack.js)
 * [Negation on NULL](negation-on-null.js)
 * [Nullish Coalescing](nullish-coalescing.js)
 * [Optional Chaining](optional-chaining.js)
