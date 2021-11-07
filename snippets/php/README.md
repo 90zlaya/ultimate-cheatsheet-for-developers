@@ -12,6 +12,7 @@ See [PHP shell cheatsheet](../../shell/php.md) for more info.
 * [Casting Strings](casting-strings.php)
 * [Copy Array](copy-array.php)
 * [Nullish Coalescing](nullish-coalescing.php)
+* [Optional Chaining](optional-chaining.php)
 * [Preg Match All](preg-match-all.php)
 * [Preg Match](preg-match.php)
 * [Prime Numbers](prime-numbers.php)
