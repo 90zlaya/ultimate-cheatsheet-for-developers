@@ -54,6 +54,7 @@ Bootstrap 4 Admin Dashboard Template | https://github.com/ColorlibHQ/gentelella
 Build sites fast from Markdown  | https://github.com/rstacruz/flatdoc
 Directory Lister | https://github.com/DirectoryLister/DirectoryLister
 CSS Hexagons | https://github.com/shariarbd/CSS3-Hexagon-Buttons
+CSS Protips | https://github.com/AllThingsSmitty/css-protips
 
 [⬆ back to top](#table-of-contents)
 
