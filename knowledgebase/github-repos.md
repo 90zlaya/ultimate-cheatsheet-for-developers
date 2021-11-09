@@ -42,6 +42,7 @@ Learning Resources | https://github.com/lauragift21/awesome-learning-resources
 Algorithms & Data Structures | https://github.com/excelbrium/algorithms-and-data-structures
 Don't Fear the RegEx | https://github.com/PHLAK/dont-fear-the-regex
 Naming cheatsheet | https://github.com/kettanaito/naming-cheatsheet
+Awesome Software and Architectural Design Patterns | https://github.com/DovAmir/awesome-design-patterns
 
 [⬆ back to top](#table-of-contents)
 
