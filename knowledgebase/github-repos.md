@@ -84,6 +84,7 @@ React Modal Video | https://github.com/appleple/react-modal-video
 Name | URL
 ------------- | -------------
 Next.js SEO | https://github.com/garmeeh/next-seo
+Dark/light mode toggle | https://github.com/robmorieson/next-dark-mode-toggle
 
 [⬆ back to top](#table-of-contents)
 
