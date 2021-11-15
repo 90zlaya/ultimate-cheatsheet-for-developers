@@ -117,6 +117,7 @@ Name | URL
 ------------- | -------------
 Laravel | https://github.com/laravel/laravel
 Laravel Boilerplate | https://github.com/rappasoft/laravel-boilerplate
+Lumen Boilerplate | https://github.com/lloricode/lumen-boilerplate
 Symphony | https://github.com/symfony/symfony
 CodeIgniter | https://github.com/bcit-ci/CodeIgniter
 
