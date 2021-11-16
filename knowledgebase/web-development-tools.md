@@ -8,10 +8,6 @@
 * [Courses](#courses)
 * [Images and Files](#images-and-files)
 * [Converters](#converters)
-* [Formatters](#formatters)
-* [Validators](#validators)
-* [Encode and Decode](#encode-and-decode)
-* [Minify and Beautify](#minify-and-beautify)
 
 [↩ back to list of cheatsheets](README.md#list-of-cheatsheets)
 
@@ -32,6 +28,7 @@ Online Text Edit Tools | https://textedit.tools/
 JSHint - Static Code Analysis | https://jshint.com/
 Readme Creator| https://readme.so/
 Moodly | https://moodly.site/
+Code Beautify | https://codebeautify.org/
 
 [⬆ back to top](#table-of-contents)
 
@@ -72,63 +69,7 @@ Markdown Guide | https://guides.github.com/features/mastering-markdown/
 
 Name | URL
 ------------- | -------------
-Epoch Unix Time Stamp Converter | https://www.unixtimestamp.com/index.php
-UNIX Timestamp Converter | https://www.textmagic.com/free-tools/timestamp-converter
-PX to EM Converter | http://pxtoem.com/
-PX to REM Converter | https://nekocalc.com/px-to-rem-converter
-Minify JavaScript | https://javascript-minifier.com/
 Unminify JS, CSS, HTML, XML, JSON | https://unminify.com/
 Markdown Live Preview | https://markdownlivepreview.com/
-JSON stringify | https://onlinetexttools.com/json-stringify-text
-Decimal to Hex | https://amp.convzone.com/decimal-to-hex/
-Hex to Decimal | https://amp.convzone.com/hex-to-decimal/
-
-[⬆ back to top](#table-of-contents)
-
-## Formatters
-
-Name | URL
-------------- | -------------
-HTML | https://webformatter.com/html
-XML | https://www.freeformatter.com/xml-formatter.html#ad-output
-JSON | https://jsonformatter.curiousconcept.com/
-
-[⬆ back to top](#table-of-contents)
-
-## Validators
-
-Name | URL
-------------- | -------------
-HTML | https://validator.w3.org/
-CSS | http://www.css-validator.org/
-JavaScript | http://beautifytools.com/javascript-validator.php
-JS Syntax | https://esprima.org/demo/validate.html
-JSON | https://jsonlint.com/
-XML | https://www.xmlvalidation.com/
-JWT | https://jwt.io/
-
-[⬆ back to top](#table-of-contents)
-
-## Encode and Decode
-
-Name | URL
-------------- | -------------
-Base64 Encode | https://www.base64encode.org/
-Base64 Decode | https://www.base64decode.org/
-URL Encode | https://www.urlencoder.org/
-URL Decode | https://www.urldecoder.org/
-
-[⬆ back to top](#table-of-contents)
-
-## Minify and Beautify
-
-Name | URL
-------------- | -------------
-CSS Minify | https://amp.uglifycss.com/
-CSS Beautify | https://amp.prettifycss.com/
-JavaScript Minify | https://amp.uglifyjs.net/
-JavaScript Beautify | https://amp.prettifyjs.net/
-JSON Minify | https://amp.minifyjson.org/
-JSON Beautify | https://amp.beautifyjson.org/
 
 [⬆ back to top](#table-of-contents)
