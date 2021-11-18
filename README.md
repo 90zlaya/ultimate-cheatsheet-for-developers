@@ -3,11 +3,11 @@
 
 ## Main Table of Contents
 
-* [Knowledgebase](knowledgebase/README.md)
-* [MySQL](mysql/README.md)
-* [PHP](php/README.md)
-* [Shell](shell/README.md)
-* [Snippets](snippets/README.md)
+:brain: [Knowledgebase](knowledgebase/README.md)\
+:open_file_folder: [MySQL](mysql/README.md)\
+:symbols: [PHP](php/README.md)\
+:heavy_dollar_sign: [Shell](shell/README.md)\
+:robot: [Snippets](snippets/README.md)
 
 ## Inspiration
 
