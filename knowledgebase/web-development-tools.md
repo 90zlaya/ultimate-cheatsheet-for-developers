@@ -15,7 +15,6 @@
 
 Name | URL
 ------------- | -------------
-Emoji Cheatsheet | https://www.webfx.com/tools/emoji-cheat-sheet/
 Text Compare! | https://text-compare.com/
 CDN | https://cdnjs.com/
 Email Breaches | https://haveibeenpwned.com/
