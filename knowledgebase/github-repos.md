@@ -43,6 +43,7 @@ Algorithms & Data Structures | https://github.com/excelbrium/algorithms-and-data
 Don't Fear the RegEx | https://github.com/PHLAK/dont-fear-the-regex
 Naming cheatsheet | https://github.com/kettanaito/naming-cheatsheet
 Awesome Software and Architectural Design Patterns | https://github.com/DovAmir/awesome-design-patterns
+Awesome Profile README templates | https://github.com/kautukkundan/Awesome-Profile-README-templates
 
 [⬆ back to top](#table-of-contents)
 
