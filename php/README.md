@@ -5,6 +5,6 @@ Read more about [PHP](https://www.php.net/).
 
 ## List of Cheatsheets
 
-* [PHPUnit](phpunit.md)
+:test_tube: [PHPUnit](phpunit.md)
 
 [↩ back to main table of contents](../README.md#main-table-of-contents)
