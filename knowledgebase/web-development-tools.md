@@ -5,6 +5,7 @@
 
 * [Misc](#misc)
 * [Apps](#apps)
+* [CDN](#cdn)
 * [Courses](#courses)
 * [Images and Files](#images-and-files)
 * [Converters](#converters)
@@ -16,7 +17,6 @@
 Name | URL
 ------------- | -------------
 Text Compare! | https://text-compare.com/
-CDN | https://cdnjs.com/
 Email Breaches | https://haveibeenpwned.com/
 OpenBase: Packages comparer| https://openbase.io/
 Password Generator | https://passwordsgenerator.net/
@@ -36,6 +36,14 @@ Time and Date | https://www.timeanddate.com/date/dateadd.html
 Name | URL
 ------------- | -------------
  ClipIt - Lightweight GTK+ Clipboard Manager | http://manpages.ubuntu.com/manpages/bionic/man1/clipit.1.html
+
+[⬆ back to top](#table-of-contents)
+
+## CDN
+
+Name | URL
+------------- | -------------
+CDN | https://cdnjs.com/
 
 [⬆ back to top](#table-of-contents)
 
