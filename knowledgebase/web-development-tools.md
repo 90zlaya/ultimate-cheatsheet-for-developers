@@ -18,7 +18,6 @@ Name | URL
 ------------- | -------------
 Text Compare! | https://text-compare.com/
 Email Breaches | https://haveibeenpwned.com/
-OpenBase: Packages comparer| https://openbase.io/
 Password Generator | https://passwordsgenerator.net/
 Flowchart Fun | https://flowchart.fun/
 Installlion | https://installlion.com/
