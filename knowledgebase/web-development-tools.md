@@ -43,6 +43,7 @@ Name | URL
 Name | URL
 ------------- | -------------
 CDN | https://cdnjs.com/
+jsDelivr | https://www.jsdelivr.com/
 
 [⬆ back to top](#table-of-contents)
 
