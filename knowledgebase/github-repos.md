@@ -23,7 +23,6 @@
 Name | URL
 ------------- | -------------
 GitHub Profile Views Counter| https://github.com/antonkomarev/github-profile-views-counter
-Public APIs | https://github.com/public-apis/public-apis
 Dev Joke | https://github.com/shrutikapoor08/devjoke
 
 [⬆ back to top](#table-of-contents)
@@ -52,6 +51,7 @@ Don't Fear the RegEx | https://github.com/PHLAK/dont-fear-the-regex
 Naming cheatsheet | https://github.com/kettanaito/naming-cheatsheet
 Awesome Software and Architectural Design Patterns | https://github.com/DovAmir/awesome-design-patterns
 Awesome Profile README templates | https://github.com/kautukkundan/Awesome-Profile-README-templates
+Public APIs | https://github.com/public-apis/public-apis
 
 [⬆ back to top](#table-of-contents)
 
