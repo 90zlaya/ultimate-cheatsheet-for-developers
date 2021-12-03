@@ -15,6 +15,7 @@
     * [PHP Misc](#php-misc)
     * [PHP Frameworks](#php-frameworks)
     * [PHP Libraries](#php-libraries)
+    * [PHP Changes](#php-changes)
 
 [↩ back to list of cheatsheets](README.md#list-of-cheatsheets)
 
@@ -116,7 +117,6 @@ Name | URL
 ------------- | -------------
 Design Patterns | https://github.com/domnikl/DesignPatternsPHP
 PHP Developer Roadmap | https://github.com/thecodeholic/php-developer-roadmap
-PHP 8.0 Changes | https://github.com/thecodeholic/php8.0-changes
 
 [⬆ back to top](#table-of-contents)
 
@@ -145,5 +145,13 @@ Viber Bot | https://github.com/Bogdaan/viber-bot-php
 CodeIgniter RESTServer | https://github.com/chriskacerguis/codeigniter-restserver
 Guzzle, PHP HTTP client | https://github.com/guzzle/guzzle
 Larastan, Laravel static analysis | https://github.com/nunomaduro/larastan
+
+[⬆ back to top](#table-of-contents)
+
+### PHP Changes
+
+Name | URL
+------------- | -------------
+PHP 8.0 Changes | https://github.com/thecodeholic/php8.0-changes
 
 [⬆ back to top](#table-of-contents)
