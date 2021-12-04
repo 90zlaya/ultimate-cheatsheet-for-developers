@@ -153,5 +153,6 @@ Larastan, Laravel static analysis | https://github.com/nunomaduro/larastan
 Name | URL
 ------------- | -------------
 PHP 8.0 Changes | https://github.com/thecodeholic/php8.0-changes
+PHP 8.1 Changes | https://github.com/thecodeholic/php8.1-changes
 
 [⬆ back to top](#table-of-contents)
