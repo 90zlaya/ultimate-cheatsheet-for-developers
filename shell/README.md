@@ -5,16 +5,16 @@ Read more about [Unix shell](https://en.wikipedia.org/wiki/Unix_shell.md).
 
 ## List of Cheatsheets
 
-* [Composer](composer.md)
-* [cURL](curl.md)
-* [Git](git.md)
-* [Linux](linux.md)
-* [MySQL](mysql.md)
-* [Node](node.md)
-* [npm](npm.md)
-* [PHP](php.md)
-* [SVN](svn.md)
-* [Vue CLI](vue-cli.md)
-* [youtube-dl](youtube-dl.md)
+:grapes: [Composer](composer.md)\
+:watermelon: [cURL](curl.md)\
+:lemon: [Git](git.md)\
+:pineapple: [Linux](linux.md)\
+:apple: [MySQL](mysql.md)\
+:pear: [Node](node.md)\
+:cherries: [npm](npm.md)\
+:blueberries: [PHP](php.md)\
+:tomato: [SVN](svn.md)\
+:coconut: [Vue CLI](vue-cli.md)\
+:melon: [youtube-dl](youtube-dl.md)
 
 [↩ back to main table of contents](../README.md#main-table-of-contents)
