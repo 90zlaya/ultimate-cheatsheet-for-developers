@@ -13,6 +13,8 @@ Read more about [Git](https://git-scm.com/).
 * [Users](#users)
 * [Remote](#remote)
 * [Alias](#alias)
+    * [Example Alias Commands](#example-alias-commands)
+    * [Setting Alias](#setting-alias)
 
 [↩ back to list of cheatsheets](README.md#list-of-cheatsheets)
 
@@ -232,10 +234,58 @@ git remote prune origin
 git config --get-regexp alias
 
 # Set alias
-git config --global alias.[alias-name] '[command]'
+git config --global alias.[alias-name] "[command]"
 
 # Display content of specific alias
 git config --global --unset alias.[alias-name]
+```
+
+### Example Alias Commands
+
+```bash
+# log-list: Log last two changes, current status and branch
+!git log -n 2 && echo '' && echo '' && git status && echo '' && git branch
+
+# prune-list: List what should be pruned locally and remotely
+!git remote prune origin -n && git prune -n
+
+# prune-now: Prune locally and remotely
+!git remote prune origin && git prune
+
+# gone-list: List branchse which can be removed locally
+!git branch -vv | awk '/: gone]/{print $1}'
+
+# gone-now: Remove branches locally
+!git branch -vv | awk '/: gone]/{print $1}' | xargs git branch -D
+```
+
+### Setting Alias
+
+Use *Set alias* line from this cheatsheet to set ceartain alias.\
+Give name to the alias and paste command of your choice.\
+Here's example how to set `prune-list` alias.
+
+```bash
+git config --global alias.prune-list "!git remote prune origin -n && git prune -n"
+```
+
+You can always set alias directly inside `.gitcofig` file.\
+That file is located in the home directory.
+
+```bash
+# Open .gitconfig file in terminal
+nano ~/.gitconfig
+```
+
+Change content of the file by adding `[alias]` section (only if not already present) and line of your choice (here is `prune-list` added as example).
+
+```
+[user]
+    email = [your-email]
+    name = [your-name]
+[alias]
+    prune-list = !git remote prune origin -n && git prune -n
+
 ```
 
 [⬆ back to top](#table-of-contents)
