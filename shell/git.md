@@ -261,7 +261,7 @@ git config --global --unset alias.[alias-name]
 
 ### Setting Alias
 
-Use *Set alias* line from this cheatsheet to set ceartain alias.\
+Use *Set alias* line from this cheatsheet to set certain alias.\
 Give name to the alias and paste command of your choice.\
 Here's example how to set `prune-list` alias.
 
