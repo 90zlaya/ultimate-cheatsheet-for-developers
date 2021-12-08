@@ -42,7 +42,6 @@ Name | URL
 ------------- | -------------
 Markdown | https://github.com/tchapi/markdown-cheatsheet
 Emoji | https://github.com/ikatyang/emoji-cheat-sheet
-JavaScript Style Guide | https://github.com/airbnb/javascript
 Design Resources | https://github.com/bradtraversy/design-resources-for-developers
 Development Resources| https://github.com/MarkoDenic/web-development-resources
 Learning Resources | https://github.com/lauragift21/awesome-learning-resources
@@ -77,6 +76,7 @@ Vanilla Projects| https://github.com/bradtraversy/vanillawebprojects
 33 Concepts | https://github.com/leonardomso/33-js-concepts
 Luxon: Dates and Times| https://github.com/moment/luxon
 Obfuscator | https://github.com/javascript-obfuscator/javascript-obfuscator
+JavaScript Style Guide | https://github.com/airbnb/javascript
 
 [⬆ back to top](#table-of-contents)
 
