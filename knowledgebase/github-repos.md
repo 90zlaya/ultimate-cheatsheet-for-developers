@@ -77,6 +77,7 @@ Vanilla Projects| https://github.com/bradtraversy/vanillawebprojects
 Luxon: Dates and Times| https://github.com/moment/luxon
 Obfuscator | https://github.com/javascript-obfuscator/javascript-obfuscator
 JavaScript Style Guide | https://github.com/airbnb/javascript
+Javascript Algorithms | https://github.com/trekhleb/javascript-algorithms
 
 [⬆ back to top](#table-of-contents)
 
