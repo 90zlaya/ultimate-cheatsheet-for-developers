@@ -52,6 +52,7 @@ Naming cheatsheet | https://github.com/kettanaito/naming-cheatsheet
 Awesome Software and Architectural Design Patterns | https://github.com/DovAmir/awesome-design-patterns
 Awesome Profile README templates | https://github.com/kautukkundan/Awesome-Profile-README-templates
 Public APIs | https://github.com/public-apis/public-apis
+Developer Roadmap| https://github.com/kamranahmedse/developer-roadmap
 
 [⬆ back to top](#table-of-contents)
 
