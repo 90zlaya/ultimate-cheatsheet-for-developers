@@ -147,6 +147,7 @@ Viber Bot | https://github.com/Bogdaan/viber-bot-php
 CodeIgniter RESTServer | https://github.com/chriskacerguis/codeigniter-restserver
 Guzzle, PHP HTTP client | https://github.com/guzzle/guzzle
 Larastan, Laravel static analysis | https://github.com/nunomaduro/larastan
+Laravel Cascade Soft Deletes | https://github.com/michaeldyrynda/laravel-cascade-soft-deletes
 
 [⬆ back to top](#table-of-contents)
 
