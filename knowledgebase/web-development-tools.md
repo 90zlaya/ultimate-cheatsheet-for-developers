@@ -34,7 +34,8 @@ Time and Date | https://www.timeanddate.com/date/dateadd.html
 
 Name | URL
 ------------- | -------------
- ClipIt - Lightweight GTK+ Clipboard Manager | http://manpages.ubuntu.com/manpages/bionic/man1/clipit.1.html
+ClipIt - Lightweight GTK+ Clipboard Manager | http://manpages.ubuntu.com/manpages/bionic/man1/clipit.1.html
+TLP UI | https://github.com/d4nj1/TLPUI
 
 [⬆ back to top](#table-of-contents)
 
