@@ -42,7 +42,7 @@ $this->assertArrayHasKey($givenArray['keyExample'], $comparisonArray);
 $this->assertArrayNotHasKey($givenArray['keyExample'], $comparisonArray);
 $this->assertInternalType($givenValue, $internalType); // string, array, int...
 $this->assertContains($givenValue, $containsValue);
-$this->expectException($exceptionType);
+$this->expectException(ExceptionName::class);
 $this->expectOutputString($expectedOutputString);
 ```
 
