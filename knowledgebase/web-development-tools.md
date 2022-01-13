@@ -27,6 +27,7 @@ Readme Creator| https://readme.so/
 Moodly | https://moodly.site/
 Code Beautify | https://codebeautify.org/
 Time and Date | https://www.timeanddate.com/date/dateadd.html
+Xdebug Wizard | https://xdebug.org/wizard
 
 [⬆ back to top](#table-of-contents)
 
