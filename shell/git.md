@@ -12,6 +12,7 @@ Read more about [Git](https://git-scm.com/).
 * [Branches](#branches)
 * [Users](#users)
 * [Remote](#remote)
+* [Repository](#repository)
 * [Alias](#alias)
     * [Example Alias Commands](#example-alias-commands)
     * [Setting Alias](#setting-alias)
@@ -84,18 +85,8 @@ git log -n [number-of-commits] --oneline
 # Get last n commits by author
 git log -n [number-of-commits] --author=[author-name]
 
-# Commit order
-git add *
-git commit -m "[message-content]"
-git pull
-git push
-
 # Remove files from stage area
 git rm --cached [filename]
-
-# Add local repository to the server for the first time
-git remote add origin [remote-location]
-git push -u origin master
 
 # Reset changes to the last commit
 git reset --hard
@@ -104,13 +95,15 @@ git reset --hard
 git reset --hard [commit-hash]
 
 # Delete last n commits and force push to remote origin
-git reset --hard HEAD~[n] && git push -f
+git reset --hard HEAD~[n]
+git push -f
 
 # Undo specific commit
 git checkout [commit-hash]
 
 # Rename last commit message
-git commit --amend -m "[message-content]" && git push --force [branch-name]
+git commit --amend -m "[message-content]"
+git push --force [branch-name]
 
 # Set commit date few days in past
 git commit -m "[message-content]" --date="[number-of-days] day ago"
@@ -131,7 +124,8 @@ git push origin :refs/tags/[tag-name]
 git checkout tags/[tag-name] -b [branch-name]
 
 # Tag older commit
-git tag -a [version-number] [commit-number] -m "[tag-message]" && git push origin [version-number]
+git tag -a [version-number] [commit-number] -m "[tag-message]"
+git push origin [version-number]
 ```
 
 [⬆ back to top](#table-of-contents)
@@ -166,10 +160,10 @@ git branch -d [branch-name]
 # Delete branch (remotely)
 git push origin -d [branch-name]
 
-# Set specific branch to be master for pushed commits
+# Set specific branch for pushed commits
 git push --set-upstream origin [branch-name]
 
-# Merge branch to master
+# Merge certain branch to current branch
 git merge [branch-name]
 
 # Get all merged branches
@@ -177,9 +171,6 @@ git branch --merged
 
 # Get all non-merged branches
 git branch --no-merged
-
-# Create empty branch
-git checkout --orphan empty-branch && git rm -rf . && git commit --allow-empty -m "Initial commit" && git push -u origin empty-branch
 
 # List all branches in local which are gone on remote
 git branch -vv | awk '/: gone]/{print $1}'
@@ -223,6 +214,25 @@ git push --set-upstream [url-path]
 
 # Prune all unreachable objects from the remote object database
 git remote prune origin
+```
+
+[⬆ back to top](#table-of-contents)
+
+## Repository
+
+```bash
+# Create a new repository
+git init
+git add *
+git commit -m "[message-content]"
+git branch -M [master|main]
+git remote add origin git@github.com:[vendor-name]/[repository-name].git
+git push -u origin [master|main]
+
+# Push to existing repository
+git remote add origin git@github.com:[vendor-name]/[repository-name].git
+git branch -M [master|main]
+git push -u origin [master|main]
 ```
 
 [⬆ back to top](#table-of-contents)
