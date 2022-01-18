@@ -33,6 +33,7 @@ Dev Joke | https://github.com/shrutikapoor08/devjoke
 Name | URL
 ------------- | -------------
 *-as-a-Service | https://github.com/as-a-service
+Bitwarden | https://github.com/bitwarden
 
 [⬆ back to top](#table-of-contents)
 
@@ -53,6 +54,7 @@ Awesome Software and Architectural Design Patterns | https://github.com/DovAmir/
 Awesome Profile README templates | https://github.com/kautukkundan/Awesome-Profile-README-templates
 Public APIs | https://github.com/public-apis/public-apis
 Developer Roadmap| https://github.com/kamranahmedse/developer-roadmap
+LinkedIn Skill Assessments Quizzes | https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes
 
 [⬆ back to top](#table-of-contents)
 
@@ -148,6 +150,8 @@ CodeIgniter RESTServer | https://github.com/chriskacerguis/codeigniter-restserve
 Guzzle, PHP HTTP client | https://github.com/guzzle/guzzle
 Larastan, Laravel static analysis | https://github.com/nunomaduro/larastan
 Laravel Cascade Soft Deletes | https://github.com/michaeldyrynda/laravel-cascade-soft-deletes
+Dependency Injection Container | https://github.com/PHP-DI/PHP-DI
+Memory Profiler | https://github.com/arnaud-lb/php-memory-profiler
 
 [⬆ back to top](#table-of-contents)
 
