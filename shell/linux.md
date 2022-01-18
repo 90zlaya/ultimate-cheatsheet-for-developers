@@ -11,6 +11,7 @@ Read more about [Linux](https://www.linux.org/).
 * [Directory](#directory)
 * [File](#file)
 * [Aliases](#aliases)
+* [Encode-Decode](#encode-decode)
 
 [↩ back to list of cheatsheets](README.md#list-of-cheatsheets)
 
@@ -165,6 +166,18 @@ unalias [alias-name]
 
 # Force list of aliases to reload in current session
 source ~/.bashrc
+```
+
+[⬆ back to top](#table-of-contents)
+
+## Encode-Decode
+
+```bash
+# base64 encode without new line
+echo -n "example" | base64 -w 0
+
+# base64 decode
+echo "ZXhhbXBsZQ==" | base64 -d
 ```
 
 [⬆ back to top](#table-of-contents)
