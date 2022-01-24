@@ -9,6 +9,7 @@
 * [Courses](#courses)
 * [Images and Files](#images-and-files)
 * [Converters](#converters)
+* [Fonts](#fonts)
 
 [↩ back to list of cheatsheets](README.md#list-of-cheatsheets)
 
@@ -80,5 +81,14 @@ Name | URL
 ------------- | -------------
 Unminify JS, CSS, HTML, XML, JSON | https://unminify.com/
 Markdown Live Preview | https://markdownlivepreview.com/
+
+[⬆ back to top](#table-of-contents)
+
+## Fonts
+
+Name | URL
+------------- | -------------
+Cufon Fonts | https://www.cufonfonts.com/
+Font Changer | https://lingojam.com/FontChanger
 
 [⬆ back to top](#table-of-contents)
