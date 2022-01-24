@@ -25,6 +25,7 @@ Name | URL
 ------------- | -------------
 GitHub Profile Views Counter| https://github.com/antonkomarev/github-profile-views-counter
 Dev Joke | https://github.com/shrutikapoor08/devjoke
+MailHog | https://github.com/mailhog/MailHog
 
 [⬆ back to top](#table-of-contents)
 
@@ -88,8 +89,9 @@ Javascript Algorithms | https://github.com/trekhleb/javascript-algorithms
 
 Name | URL
 ------------- | -------------
-React Multi Carousel | https://github.com/YIZHUANG/react-multi-carousel
-React Modal Video | https://github.com/appleple/react-modal-video
+Multi Carousel | https://github.com/YIZHUANG/react-multi-carousel
+Modal Video | https://github.com/appleple/react-modal-video
+Flat UI | https://github.com/githubocto/flat-ui
 
 [⬆ back to top](#table-of-contents)
 
