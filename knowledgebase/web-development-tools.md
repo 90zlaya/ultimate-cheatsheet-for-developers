@@ -72,6 +72,7 @@ GIF optimizer | https://ezgif.com/optimize
 Shields | https://shields.io/
 Carbon: Images of Source Code | https://carbon.now.sh/
 Markdown Guide | https://guides.github.com/features/mastering-markdown/
+Lorem Picsum | https://picsum.photos/
 
 [⬆ back to top](#table-of-contents)
 
