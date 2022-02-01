@@ -73,6 +73,9 @@ Shields | https://shields.io/
 Carbon: Images of Source Code | https://carbon.now.sh/
 Markdown Guide | https://guides.github.com/features/mastering-markdown/
 Lorem Picsum | https://picsum.photos/
+Remove Background | https://www.remove.bg/
+Profile Picture Maker| https://pfpmaker.com/
+Image Compression | https://compressor.io/
 
 [⬆ back to top](#table-of-contents)
 
