@@ -97,6 +97,9 @@ apt autoclean
 
 # Remove repository
 add-apt-repository -r ppa:[ppa-to-remove]
+
+# Update key for repository
+apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys [key]
 ```
 
 [⬆ back to top](#table-of-contents)
