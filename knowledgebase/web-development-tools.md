@@ -29,6 +29,7 @@ Moodly | https://moodly.site/
 Code Beautify | https://codebeautify.org/
 Time and Date | https://www.timeanddate.com/date/dateadd.html
 Xdebug Wizard | https://xdebug.org/wizard
+Meta Tags | https://metatags.io/
 
 [⬆ back to top](#table-of-contents)
 
@@ -76,6 +77,9 @@ Lorem Picsum | https://picsum.photos/
 Remove Background | https://www.remove.bg/
 Profile Picture Maker| https://pfpmaker.com/
 Image Compression | https://compressor.io/
+Logoipsum | https://logoipsum.com/
+BrowserFrame | https://browserframe.com/
+Favicon | https://favicon.io/
 
 [⬆ back to top](#table-of-contents)
 
