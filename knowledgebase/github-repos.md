@@ -160,6 +160,8 @@ Name |
 
 ### PHP APIs
 
+Name |
+---- |
 [GitHub API](https://github.com/KnpLabs/php-github-api)
 
 [⬆ back to top](#table-of-contents)
