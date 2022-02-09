@@ -15,6 +15,7 @@
     * [PHP Misc](#php-misc)
     * [PHP Frameworks](#php-frameworks)
     * [PHP Libraries](#php-libraries)
+    * [PHP APIs](#php-apis)
     * [PHP Changes](#php-changes)
 
 [↩ back to list of cheatsheets](README.md#list-of-cheatsheets)
@@ -154,6 +155,12 @@ Name |
 [Laravel Cascade Soft Deletes](https://github.com/michaeldyrynda/laravel-cascade-soft-deletes)
 [Dependency Injection Container](https://github.com/PHP-DI/PHP-DI)
 [Memory Profiler](https://github.com/arnaud-lb/php-memory-profiler)
+
+[⬆ back to top](#table-of-contents)
+
+### PHP APIs
+
+[GitHub API](https://github.com/KnpLabs/php-github-api)
 
 [⬆ back to top](#table-of-contents)
 
