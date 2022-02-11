@@ -1,13 +1,22 @@
-# Web Development Learning Cheatsheet
+# Learning Sources Cheatsheet
 > Useful learning sources for Web Development
 
 ## Table of Contents
 
-* [CSS](#css)	
-* [JavaScript](#javascript)	
+* [Misc](#misc)
+* [CSS](#css)
+* [JavaScript](#javascript)
 * [PHP](#php)
 
 [↩ back to list of cheatsheets](README.md#list-of-cheatsheets)
+
+## Misc
+
+URLs |
+-----|
+[dev.to](https://dev.to/)
+
+[⬆ back to top](#table-of-contents)
 
 ## CSS
 
