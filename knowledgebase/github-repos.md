@@ -155,6 +155,7 @@ Name |
 [Laravel Cascade Soft Deletes](https://github.com/michaeldyrynda/laravel-cascade-soft-deletes)
 [Dependency Injection Container](https://github.com/PHP-DI/PHP-DI)
 [Memory Profiler](https://github.com/arnaud-lb/php-memory-profiler)
+[PHP Compatibility Checker](https://github.com/PHPCompatibility/PHPCompatibility)
 
 [⬆ back to top](#table-of-contents)
 
