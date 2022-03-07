@@ -1,5 +1,5 @@
 # npm
-> Default package manager for the JavaScript runtime environment Node.js
+> Default package manager for the JavaScript runtime environment Node.js.
 
 Read more about [npm](https://www.npmjs.com/).
 

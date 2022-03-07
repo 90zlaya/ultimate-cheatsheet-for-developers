@@ -1,5 +1,5 @@
 # Linux
-> Family of open source Unix-like operating systems based on the Linux kernel
+> Family of open source Unix-like operating systems based on the Linux kernel.
 
 Read more about [Linux](https://www.linux.org/).
 

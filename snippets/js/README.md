@@ -1,5 +1,5 @@
 # JavaScript Snippets
-> Cheatsheet with JavaScript code snippets
+> Cheatsheet with JavaScript code snippets.
 
 Use in console by running `node [path-to-the-snippet]/[snippet-name].js`.\
 See [Node shell cheatsheet](../../shell/node.md) for more info.

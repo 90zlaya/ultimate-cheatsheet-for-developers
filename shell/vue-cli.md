@@ -1,5 +1,5 @@
 # Vue CLI
-> Standard Tooling for Vue.js Development
+> Standard Tooling for Vue.js Development.
 
 Read more about [Vue CLI](https://cli.vuejs.org/).
 

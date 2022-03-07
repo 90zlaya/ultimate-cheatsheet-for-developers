@@ -1,5 +1,5 @@
 # Ultimate Cheatsheet for Developers
-> Making everyday's development easier
+> Making everyday's development easier.
 
 ## Main Table of Contents
 

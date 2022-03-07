@@ -1,7 +1,7 @@
 /**
  * Removes duplicates from array of repeating numbers
  * and sorts them in ascending order
- * 
+ *
  * @author Zlatan Stajic <contact@zlatanstajic.com>
  * @since 2021-02-22
  */

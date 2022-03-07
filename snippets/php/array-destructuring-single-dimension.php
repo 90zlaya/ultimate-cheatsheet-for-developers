@@ -1,7 +1,7 @@
 <?php
 /**
  * Demonstrating destructuring of the single-dimension array
- * 
+ *
  * @author Zlatan Stajic <contact@zlatanstajic.com>
  * @since 2021-02-26
  */

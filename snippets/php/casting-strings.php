@@ -2,7 +2,7 @@
 /**
  * Checking what will be result when
  * casting string with different values
- * 
+ *
  * @author Zlatan Stajic <contact@zlatanstajic.com>
  * @since 2021-10-12
  */

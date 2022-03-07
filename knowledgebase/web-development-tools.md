@@ -1,5 +1,5 @@
 # Web Development Tools Cheatsheet
-> Useful tools for Web Development
+> Useful tools for Web Development.
 
 ## Table of Contents
 

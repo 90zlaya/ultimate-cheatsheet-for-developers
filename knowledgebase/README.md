@@ -1,5 +1,5 @@
 # Knowledgebase
-> Cheatsheet for growing knowledgebase
+> Cheatsheet for growing knowledgebase.
 
 ## List of Cheatsheets
 

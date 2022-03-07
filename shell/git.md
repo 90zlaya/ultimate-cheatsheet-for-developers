@@ -1,5 +1,5 @@
 # Git
-> Version-control system for tracking changes in source code during software development
+> Version-control system for tracking changes in source code during software development.
 
 Read more about [Git](https://git-scm.com/).
 
@@ -23,7 +23,7 @@ Read more about [Git](https://git-scm.com/).
 
 ```bash
 # Access configuration
-nano ~/.gitconfig 
+nano ~/.gitconfig
 
 # Get version
 git version

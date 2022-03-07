@@ -1,5 +1,5 @@
 # Composer
-> A Dependency Manager for PHP
+> A Dependency Manager for PHP.
 
 Read more about [Composer](https://getcomposer.org/).
 

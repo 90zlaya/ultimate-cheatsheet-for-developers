@@ -1,5 +1,5 @@
 # PHP Snippets
-> Cheatsheet with PHP code snippets
+> Cheatsheet with PHP code snippets.
 
 Use in console by running `php [path-to-the-snippet]/[snippet-name].php`.\
 See [PHP shell cheatsheet](../../shell/php.md) for more info.

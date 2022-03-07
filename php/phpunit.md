@@ -1,5 +1,5 @@
 # PHPUnit
-> The PHP Testing Framework
+> The PHP Testing Framework.
 
 Read more about [PHPUnit](https://phpunit.de/).
 

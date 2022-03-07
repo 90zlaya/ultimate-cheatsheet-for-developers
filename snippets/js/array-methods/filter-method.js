@@ -1,6 +1,6 @@
 /**
  * Demonstration of the filter method
- * 
+ *
  * @author Zlatan Stajic <contact@zlatanstajic.com>
  * @since 2021-02-25
  */
@@ -11,7 +11,7 @@ const formulaOneChampions = require('./data-object.js');
 // Get all champions from Germany
 const country = 'Germany';
 const championsFromCountry = formulaOneChampions.filter((champion) => {
-    return champion.country === country;
+  return champion.country === country;
 });
 
 console.log(`All champions from ${ country }`, championsFromCountry);

@@ -1,5 +1,5 @@
 # Learning Sources Cheatsheet
-> Useful learning sources for Web Development
+> Useful learning sources for Web Development.
 
 ## Table of Contents
 

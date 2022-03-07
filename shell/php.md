@@ -1,5 +1,5 @@
 # PHP
-> General-purpose scripting language especially suited to web development
+> General-purpose scripting language especially suited to web development.
 
 Read more about [PHP](https://www.php.net/).
 

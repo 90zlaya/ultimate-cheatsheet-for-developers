@@ -1,5 +1,5 @@
 # Node
-> JavaScript runtime built on Chrome's V8 JavaScript engine
+> JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 Read more about [Node](https://nodejs.org/).
 

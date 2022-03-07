@@ -1,5 +1,5 @@
 # youtube-dl
-> Download videos from YouTube
+> Download videos from YouTube.
 
 Read more about [youtube-dl](https://youtube-dl.org/).
 

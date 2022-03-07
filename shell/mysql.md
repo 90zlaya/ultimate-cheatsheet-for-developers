@@ -1,5 +1,5 @@
 # MySQL
-> Relational database management system
+> Relational database management system.
 
 Read more about [MySQL](https://www.mysql.com/).
 

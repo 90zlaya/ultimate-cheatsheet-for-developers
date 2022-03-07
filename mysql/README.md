@@ -1,5 +1,5 @@
 # MySQL Cheatsheet
-> Cheatsheet for MySQL and MySQL-related stuff
+> Cheatsheet for MySQL and MySQL-related stuff.
 
 Read more about [MySQL](https://www.mysql.com/).
 
