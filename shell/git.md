@@ -59,10 +59,13 @@ git count-objects -v
 git stash list
 
 # Save working changes to stash
-git stash save
+git stash push -m "[message-content]"
 
-# Apply previously stashed working changes
-git stash apply
+# Pop and apply previously stashed working changes
+git stash pop stash@{n}
+
+# Only apply previously stashed working changes
+git stash apply stash@{n}
 
 # Clear all stashed working changes
 git stash clear
