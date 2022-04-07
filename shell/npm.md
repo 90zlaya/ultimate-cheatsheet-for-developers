@@ -7,6 +7,7 @@ Read more about [npm](https://www.npmjs.com/).
 
 * [Misc](#misc)
 * [Install and Remove](#install-and-remove)
+* [npx](#npx)
 
 [↩ back to list of cheatsheets](README.md#list-of-cheatsheets)
 
@@ -63,6 +64,17 @@ npm install [package-name]@[version]
 
 # Remove extraneous packages
 npm prune
+```
+
+[⬆ back to top](#table-of-contents)
+
+## npx
+
+Read more about [npx](https://www.npmjs.com/package/npx).
+
+```bash
+# Kill Node.js on port number
+npx kill-port [port-number]
 ```
 
 [⬆ back to top](#table-of-contents)
