@@ -27,6 +27,7 @@ Name |
 [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter)
 [Dev Joke](https://github.com/shrutikapoor08/devjoke)
 [MailHog](https://github.com/mailhog/MailHog)
+[Progress Bar](https://github.com/fredericojordan/progress-bar)
 
 [⬆ back to top](#table-of-contents)
 
@@ -54,6 +55,7 @@ Name |
 [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
 [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 [Awesome Profile README templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
+[Awesome README template](https://github.com/Louis3797/awesome-readme-template)
 [Public APIs](https://github.com/public-apis/public-apis)
 [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 [LinkedIn Skill Assessments Quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
