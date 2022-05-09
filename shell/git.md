@@ -110,6 +110,9 @@ git push --force [branch-name]
 
 # Set commit date few days in past
 git commit -m "[message-content]" --date="[number-of-days] day ago"
+
+# Revert all commits (including initial)
+git update-ref -d HEAD
 ```
 
 [⬆ back to top](#table-of-contents)
