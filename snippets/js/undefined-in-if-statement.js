@@ -3,7 +3,6 @@
  * of the object is checked inside if condition
  *
  * @author Zlatan Stajic <contact@zlatanstajic.com>
- * @since 2021-10-08
  */
 
 // Keys and values

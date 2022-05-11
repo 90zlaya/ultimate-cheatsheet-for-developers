@@ -3,7 +3,6 @@
  * Demonstration of the map method
  *
  * @author Zlatan Stajic <contact@zlatanstajic.com>
- * @since 2021-10-27
  */
 
 $superheroes = [

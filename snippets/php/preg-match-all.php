@@ -4,7 +4,6 @@
  * extracting tags from string
  *
  * @author Zlatan Stajic <contact@zlatanstajic.com>
- * @since 2021-10-12
  */
 
 /**

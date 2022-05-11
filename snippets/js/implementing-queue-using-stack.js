@@ -2,7 +2,6 @@
  * Implementing queue using stack
  *
  * @author Zlatan Stajic <contact@zlatanstajic.com>
- * @since 2021-02-22
  */
 
 // Main stack

@@ -3,7 +3,6 @@
  * and outputs results to the console
  *
  * @author Zlatan Stajic <contact@zlatanstajic.com>
- * @since 2021-02-28
  */
 
 const calculatePrice = (price, taxes, description) => {

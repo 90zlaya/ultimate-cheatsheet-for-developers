@@ -4,7 +4,6 @@
  * and adding new integers to it
  *
  * @author Zlatan Stajic <contact@zlatanstajic.com>
- * @since 2021-10-22
  */
 
 $originalNumbers = [1, 2, 3, 4, 5, 6, 7];

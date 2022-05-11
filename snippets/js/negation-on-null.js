@@ -4,7 +4,6 @@
  * set as null
  *
  * @author Zlatan Stajic <contact@zlatanstajic.com>
- * @since 2021-10-07
  */
 
 // Variable which has null instead of true or false

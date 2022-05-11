@@ -2,7 +2,6 @@
  * Demonstration of the map method
  *
  * @author Zlatan Stajic <contact@zlatanstajic.com>
- * @since 2021-02-25
  */
 
 // Assign data object to the variable

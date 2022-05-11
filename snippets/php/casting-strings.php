@@ -4,7 +4,6 @@
  * casting string with different values
  *
  * @author Zlatan Stajic <contact@zlatanstajic.com>
- * @since 2021-10-12
  */
 
 // Example for string 'true'

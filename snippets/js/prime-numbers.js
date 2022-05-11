@@ -2,7 +2,6 @@
  * Computes if passed number is prime or not
  *
  * @author Zlatan Stajic <contact@zlatanstajic.com>
- * @since 2021-02-22
  */
 
 const isPrime = (number) => {
