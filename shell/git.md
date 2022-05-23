@@ -113,6 +113,12 @@ git commit -m "[message-content]" --date="[number-of-days] day ago"
 
 # Revert all commits (including initial)
 git update-ref -d HEAD
+
+# Number of commits for branch name
+git rev-list --count [branch-name]
+
+# Number of commits across all branches
+git rev-list --all --count
 ```
 
 [⬆ back to top](#table-of-contents)
