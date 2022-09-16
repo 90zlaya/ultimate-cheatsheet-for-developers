@@ -32,6 +32,8 @@ Name |
 [Meta Tags](https://metatags.io/)
 [JSON Visio](https://jsonvisio.com/editor)
 [Crontab Guru](https://crontab.guru/)
+[Software Licenses in Plain English](https://tldrlegal.com/)
+[GitHub Star History](https://star-history.com/)
 
 [⬆ back to top](#table-of-contents)
 
