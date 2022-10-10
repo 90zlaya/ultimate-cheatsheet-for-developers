@@ -41,7 +41,7 @@ Name |
 
 Name |
 ---- |
-[ClipIt - Lightweight GTK+ Clipboard Manager](http://manpages.ubuntu.com/manpages/bionic/man1/clipit.1.html)
+[Diodon Clipboard Manager](https://launchpad.net/diodon)
 [TLP UI](https://github.com/d4nj1/TLPUI)
 
 [⬆ back to top](#table-of-contents)
