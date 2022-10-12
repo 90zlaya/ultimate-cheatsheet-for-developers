@@ -34,6 +34,7 @@ URLs |
 [How To Install Java with Apt on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-on-ubuntu-20-04)
 [How to Install Vagrant on Ubuntu 18.04](https://linuxize.com/post/how-to-install-vagrant-on-ubuntu-18-04/)
 [How to install VirtualBox 6 on Ubuntu 20.04](https://www.serverlab.ca/tutorials/linux/containers-and-virtual-machines/how-to-install-virtualbox-6-on-ubuntu-20-04/)
+[How to install VirtualBox 6 on Ubuntu 22.04](https://www.linuxcapable.com/how-to-install-virtualbox-6-1-on-ubuntu-22-04-lts/)
 [How to Install NFS Client and Server on Ubuntu 20.04](https://www.howtoforge.com/how-to-install-nfs-client-and-server-on-ubuntu-2004/)
 [How to Sign Up for Gravatar Account](https://en.gravatar.com/support/how-to-sign-up/)
 [How to Install .deb Package](https://help.ubuntu.com/kubuntu/desktopguide/C/manual-install.html)
