@@ -26,7 +26,7 @@ composer update
 # Update composer autoload file
 composer dump-autoload
 
-# Open the pacakges' repository URL or homepage in browser
+# Open the packages' repository URL or homepage in browser
 composer browse
 
 # Clear composer's internal package cache
@@ -77,7 +77,7 @@ composer install [vendor/package-name]
 # Remove package
 composer remove [vendor/package-name]
 
-# Shows which pacages cause the given package to be installed
+# Shows which packages cause the given package to be installed
 composer depends [vendor/package-name]
 ```
 

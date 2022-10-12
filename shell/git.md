@@ -274,7 +274,7 @@ git config --global --unset alias.[alias-name]
 # prune-now: Prune locally and remotely
 !git remote prune origin && git prune
 
-# gone-list: List branchse which can be removed locally
+# gone-list: List branches which can be removed locally
 !git branch -vv | awk '/: gone]/{print $1}'
 
 # gone-now: Remove branches locally

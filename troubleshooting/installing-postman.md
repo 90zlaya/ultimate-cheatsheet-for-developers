@@ -1,6 +1,6 @@
 # Installing Postman
 
-> How to installl Postman.
+> How to install Postman.
 
 [↩ back to list of cheatsheets](README.md#list-of-cheatsheets)
 
