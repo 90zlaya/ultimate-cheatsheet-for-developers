@@ -55,8 +55,7 @@ uptime
 
 ```bash
 # Install & run OS configuration tools
-apt-get install dconf-tools
-dconf-editor
+apt-get install dconf-tools && dconf-editor
 
 # Apache server log location
 /var/log/apache2/error.log
@@ -68,8 +67,9 @@ nano /etc/apt/sources.list
 cd /var/crash
 
 # Install & run to list folder tree
-apt-get install tree
-tree
+apt-get install tree && tree
+# Show hidden files in tree as well
+tree -a
 ```
 
 [⬆ back to top](#table-of-contents)
@@ -121,6 +121,9 @@ cd [directory-name]
 
 # Create new directory
 mkdir [directory-name]
+
+# Create new directory only if it doesn't exist
+mkdir -p [directory-name]
 
 # Copy directory
 cp -R [source-directory] [destination-directory]
