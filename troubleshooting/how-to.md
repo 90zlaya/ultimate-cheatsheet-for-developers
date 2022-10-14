@@ -18,6 +18,8 @@
 URLs |
 -----|
 [Screenshotting will freeze the taskbar](https://discourse.ubuntu.com/t/screenshotting-will-freeze-the-taskbar/19646)
+[Switch Back Xorg in Ubuntu 22.04 to prevent screens hare error](https://fostips.com/switch-back-xorg-ubuntu-21-04/)
+[How to fix screen flickering on Linux](https://ljvmiranda921.github.io/notebook/2021/09/01/linux-thinkpad-screen-flicker/)
 [Postman Is Not Working on Ubuntu](https://www.codegrepper.com/code-examples/shell/postman+not+working+ubuntu+20.04)
 [Why Do I Have Two Postman Icons](https://howtofix.io/why-do-i-have-two-postman-icons-id335724)
 [Brew Doctor Error: Could not resolve HEAD to a revision](https://github.com/Homebrew/discussions/discussions/1512)
