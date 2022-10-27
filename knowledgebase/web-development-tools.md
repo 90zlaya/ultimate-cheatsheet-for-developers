@@ -42,6 +42,7 @@ Name |
 Name |
 ---- |
 [Diodon Clipboard Manager](https://launchpad.net/diodon)
+[Flameshot Screenshot Software](https://flameshot.org/)
 [TLP UI](https://github.com/d4nj1/TLPUI)
 
 [⬆ back to top](#table-of-contents)
