@@ -34,6 +34,7 @@ Name |
 [Crontab Guru](https://crontab.guru/)
 [Software Licenses in Plain English](https://tldrlegal.com/)
 [GitHub Star History](https://star-history.com/)
+[npm Trends](https://npmtrends.com/)
 
 [⬆ back to top](#table-of-contents)
 
