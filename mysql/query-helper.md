@@ -8,6 +8,7 @@
 * [Show Create Table](#show-create-table)
 * [Copy Table](#copy-table)
 * [Date Interval](#date-interval)
+* [Foreign Key Checks](#foreign-key-checks)
 
 [↩ back to list of cheatsheets](README.md#list-of-cheatsheets)
 
@@ -75,6 +76,16 @@ An example for 10 days since current day:
 SELECT DATE_ADD(CURDATE(), INTERVAL 10 DAY) AS ten_days_since_today;
 ```
 
+[⬆ back to top](#table-of-contents)
 
+## Foreign Key Checks
+
+```sql
+SET FOREIGN_KEY_CHECKS = 0;
+
+[commands]
+
+SET FOREIGN_KEY_CHECKS = 1;
+```
 
 [⬆ back to top](#table-of-contents)
