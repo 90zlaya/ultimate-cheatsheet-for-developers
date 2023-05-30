@@ -29,6 +29,8 @@ Name |
 [MailHog](https://github.com/mailhog/MailHog)
 [Progress Bar](https://github.com/fredericojordan/progress-bar)
 [Code Reviews](https://github.com/kamranahmedse/code-reviews)
+[GitHub Issue Templates](https://github.com/stevemao/github-issue-templates)
+[AI Commits](https://github.com/Nutlope/aicommits)
 
 [⬆ back to top](#table-of-contents)
 
