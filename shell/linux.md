@@ -157,6 +157,9 @@ tail -f [filename]
 
 # Copy file
 cp [source-filename] [location-filename]
+
+# Empty file contents
+truncate -s 0 [filename]
 ```
 
 [⬆ back to top](#table-of-contents)
