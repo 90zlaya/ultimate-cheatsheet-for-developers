@@ -4,6 +4,7 @@
 ## Table of Contents
 
 * [Misc](#misc)
+* [Documentation](#documentation)
 * [CSS](#css)
 * [JavaScript](#javascript)
 * [PHP](#php)
@@ -15,6 +16,17 @@
 URLs |
 -----|
 [dev.to](https://dev.to/)
+[roadmap.sh](https://roadmap.sh/)
+
+[⬆ back to top](#table-of-contents)
+
+## Documentation
+
+URLs |
+-----|
+[Daisy UI](https://daisyui.com/)
+[Hero Icons](https://heroicons.com/)
+[Zsh](https://ohmyz.sh/)
 
 [⬆ back to top](#table-of-contents)
 
