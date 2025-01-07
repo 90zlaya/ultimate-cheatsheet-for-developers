@@ -4,11 +4,7 @@
 ## Main Table of Contents
 
 :brain: [Knowledgebase](knowledgebase/README.md)\
-:open_file_folder: [MySQL](mysql/README.md)\
-:symbols: [PHP](php/README.md)\
-:heavy_dollar_sign: [Shell](shell/README.md)\
-:robot: [Snippets](snippets/README.md)\
-:gear: [Troubleshooting](troubleshooting/README.md)
+:heavy_dollar_sign: [Shell](shell/README.md)
 
 ## Inspiration
 

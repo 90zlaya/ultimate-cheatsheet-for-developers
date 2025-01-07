@@ -13,8 +13,5 @@ Read more about [Unix shell](https://en.wikipedia.org/wiki/Unix_shell.md).
 :pear: [Node](node.md)\
 :cherries: [npm](npm.md)\
 :blueberries: [PHP](php.md)\
-:tomato: [SVN](svn.md)\
-:coconut: [Vue CLI](vue-cli.md)\
-:melon: [youtube-dl](youtube-dl.md)
 
 [↩ back to main table of contents](../README.md#main-table-of-contents)
