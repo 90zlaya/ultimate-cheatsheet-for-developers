@@ -1,9 +1,8 @@
 /**
  * Copying integers array to the new array
  * and adding new integers to it
- * 
+ *
  * @author Zlatan Stajic <contact@zlatanstajic.com>
- * @since 2021-02-22
  */
 
 const originalNumbers = [1, 2, 3, 4, 5, 6, 7];

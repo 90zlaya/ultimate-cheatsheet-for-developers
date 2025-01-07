@@ -1,5 +1,5 @@
 # PHP Cheatsheet
-> Cheatsheet for PHP & PHP-related stuff
+> Cheatsheet for PHP & PHP-related stuff.
 
 Read more about [PHP](https://www.php.net/).
 

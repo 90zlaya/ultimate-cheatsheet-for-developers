@@ -2,9 +2,8 @@
 /**
  * Calculates total price based on price and taxes
  * and outputs results to the console
- * 
+ *
  * @author Zlatan Stajic <contact@zlatanstajic.com>
- * @since 2021-03-02
  */
 
 $calculatePrice = function ($price, $taxes, $description) {

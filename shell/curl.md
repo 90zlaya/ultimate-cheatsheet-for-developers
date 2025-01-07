@@ -1,5 +1,5 @@
 # cURL
-> Command line tool and library for transferring data with URLs
+> Command line tool and library for transferring data with URLs.
 
 Read more about [cURL](https://curl.haxx.se/).
 

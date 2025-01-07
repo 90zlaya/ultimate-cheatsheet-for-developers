@@ -1,8 +1,7 @@
 /**
  * Sorting array of user objects by date in ascending order
- * 
+ *
  * @author Zlatan Stajic <contact@zlatanstajic.com>
- * @since 2021-07-16
  */
 
 // List of users

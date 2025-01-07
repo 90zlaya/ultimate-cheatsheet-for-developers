@@ -1,5 +1,5 @@
 # Linux
-> Family of open source Unix-like operating systems based on the Linux kernel
+> Family of open source Unix-like operating systems based on the Linux kernel.
 
 Read more about [Linux](https://www.linux.org/).
 
@@ -11,6 +11,7 @@ Read more about [Linux](https://www.linux.org/).
 * [Directory](#directory)
 * [File](#file)
 * [Aliases](#aliases)
+* [Encode-Decode](#encode-decode)
 
 [↩ back to list of cheatsheets](README.md#list-of-cheatsheets)
 
@@ -38,6 +39,9 @@ swapoff -a && swapon -a
 # Runs a sound test with static bouncing back and forth
 speaker-test --channels 2 --rate 48000 --device hw:0,3
 
+# Loop command
+watch -n [number-of-seconds] [command]
+
 # Show live date and time
 watch -n 1 date
 
@@ -51,8 +55,7 @@ uptime
 
 ```bash
 # Install & run OS configuration tools
-apt-get install dconf-tools
-dconf-editor
+apt-get install dconf-tools && dconf-editor
 
 # Apache server log location
 /var/log/apache2/error.log
@@ -64,8 +67,9 @@ nano /etc/apt/sources.list
 cd /var/crash
 
 # Install & run to list folder tree
-apt-get install tree
-tree
+apt-get install tree && tree
+# Show hidden files in tree as well
+tree -a
 ```
 
 [⬆ back to top](#table-of-contents)
@@ -96,6 +100,9 @@ apt autoclean
 
 # Remove repository
 add-apt-repository -r ppa:[ppa-to-remove]
+
+# Update key for repository
+apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys [key]
 ```
 
 [⬆ back to top](#table-of-contents)
@@ -114,6 +121,9 @@ cd [directory-name]
 
 # Create new directory
 mkdir [directory-name]
+
+# Create new directory only if it doesn't exist
+mkdir -p [directory-name]
 
 # Copy directory
 cp -R [source-directory] [destination-directory]
@@ -165,6 +175,18 @@ unalias [alias-name]
 
 # Force list of aliases to reload in current session
 source ~/.bashrc
+```
+
+[⬆ back to top](#table-of-contents)
+
+## Encode-Decode
+
+```bash
+# base64 encode without new line
+echo -n "example" | base64 -w 0
+
+# base64 decode
+echo "ZXhhbXBsZQ==" | base64 -d
 ```
 
 [⬆ back to top](#table-of-contents)

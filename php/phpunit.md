@@ -1,5 +1,5 @@
 # PHPUnit
-> The PHP Testing Framework
+> The PHP Testing Framework.
 
 Read more about [PHPUnit](https://phpunit.de/).
 
@@ -19,7 +19,7 @@ $this->assertTrue(true, 'This should already work.');
 // Mark that test is not completed
 $this->markTestIncomplete('This test has not been implemented yet.');
 
-// Skip test
+// Skip test if extension isn't loaded
 if (!extension_loaded('mysqli'))
 {
     $this->markTestSkipped('The MySQLi extension is not available.');
@@ -31,18 +31,39 @@ if (!extension_loaded('mysqli'))
 ## Assertions
 
 ```php
+// Equality
 $this->assertEquals($givenValue, $comparisonValue);
 $this->assertNotEquals($givenValue, $comparisonValue);
+
+// Emptiness
 $this->assertEmpty($givenValue);
 $this->assertNotEmpty($givenValue);
+
+// Booleans
 $this->assertTrue($givenValue);
 $this->assertFalse($givenValue);
 $this->assertNotFalse($givenValue);
+
+// Arrays
 $this->assertArrayHasKey($givenArray['keyExample'], $comparisonArray);
 $this->assertArrayNotHasKey($givenArray['keyExample'], $comparisonArray);
-$this->assertInternalType($givenValue, $internalType); // string, array, int...
+
+// Types
+$this->assertIsBool($givenValue);
+$this->assertIsInt($givenValue);
+$this->assertIsString($givenValue);
+$this->assertIsArray($givenValue);
+
+// Contains
 $this->assertContains($givenValue, $containsValue);
-$this->expectException($exceptionType);
+
+// Instances
+$this->assertInstanceOf(InstanceName::class, $givenValue);
+
+// Exceptions
+$this->expectException(ExceptionName::class);
+
+// Output
 $this->expectOutputString($expectedOutputString);
 ```
 

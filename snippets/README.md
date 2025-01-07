@@ -1,5 +1,5 @@
 # Snippets
-> Cheatsheet with code snippets
+> Cheatsheet with code snippets.
 
 ## List of Cheatsheets
 

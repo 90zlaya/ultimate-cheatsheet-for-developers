@@ -1,5 +1,5 @@
 # Query Helper
-> Queries which might help with development
+> Queries which might help with development.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@
 
 ## Auto Increment
 
-View current `AUTO_INCREMENT` value for given *DatabaseName* and *TableName*. 
+View current `AUTO_INCREMENT` value for given *DatabaseName* and *TableName*.
 
 ```sql
 SELECT `AUTO_INCREMENT`
@@ -22,7 +22,7 @@ WHERE TABLE_SCHEMA = 'DatabaseName'
 AND   TABLE_NAME   = 'TableName';
 ```
 
-This is how to set `AUTO_INCREMENT` value for given *DatabaseName* and *TableName* to be *1000* (it can be any other number). 
+This is how to set `AUTO_INCREMENT` value for given *DatabaseName* and *TableName* to be *1000* (it can be any other number).
 
 ```sql
 ALTER TABLE `DatabaseName`.`TableName` AUTO_INCREMENT = 1000;
@@ -32,13 +32,13 @@ ALTER TABLE `DatabaseName`.`TableName` AUTO_INCREMENT = 1000;
 
 ## Safe Updates
 
-Disable safe updates so you can run `UPDATE` queries without primary key. 
+Disable safe updates so you can run `UPDATE` queries without primary key.
 
 ```sql
 SET SQL_SAFE_UPDATES = 0;
 ```
 
-To enble safe updates change integer value from *0* to *1*. 
+To enable safe updates change integer value from *0* to *1*.
 
 [⬆ back to top](#table-of-contents)
 
@@ -64,7 +64,7 @@ CREATE TABLE `SourceDatabaseName`.`SourceTableName` SELECT * FROM `DestinationDa
 
 ## Date Interval
 
-Get date in future since `start-date` for given interval `number` (1, 2, 3... n) and `type` (`DAY`, `WEEK`, `MONTH`, `YEAR`). 
+Get date in future since `start-date` for given interval `number` (1, 2, 3... n) and `type` (`DAY`, `WEEK`, `MONTH`, `YEAR`).
 
 ```sql
 SELECT DATE_ADD([start-date], INTERVAL [number] [type]) AS date_in_future;

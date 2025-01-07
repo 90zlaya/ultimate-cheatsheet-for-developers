@@ -1,5 +1,5 @@
 # SVN
-> Version control system
+> Version control system.
 
 Read more about [SVN](https://subversion.apache.org/).
 

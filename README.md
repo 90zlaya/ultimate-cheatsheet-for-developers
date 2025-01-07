@@ -1,5 +1,5 @@
 # Ultimate Cheatsheet for Developers
-> Making everyday's development easier
+> Making everyday's development easier.
 
 ## Main Table of Contents
 
@@ -7,7 +7,8 @@
 :open_file_folder: [MySQL](mysql/README.md)\
 :symbols: [PHP](php/README.md)\
 :heavy_dollar_sign: [Shell](shell/README.md)\
-:robot: [Snippets](snippets/README.md)
+:robot: [Snippets](snippets/README.md)\
+:gear: [Troubleshooting](troubleshooting/README.md)
 
 ## Inspiration
 

@@ -2,9 +2,8 @@
 /**
  * Removes duplicates from array of repeating numbers
  * and sorts them in ascending order
- * 
+ *
  * @author Zlatan Stajic <contact@zlatanstajic.com>
- * @since 2021-02-22
  */
 
 $repeatingNumbers = [2, 5, 7, 2, 9, 6, 5, 8, 1, 3, 4, 3];

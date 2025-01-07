@@ -1,5 +1,5 @@
 # Shell Cheatsheet
-> Commands for Unix shell terminal
+> Commands for Unix shell terminal.
 
 Read more about [Unix shell](https://en.wikipedia.org/wiki/Unix_shell.md).
 

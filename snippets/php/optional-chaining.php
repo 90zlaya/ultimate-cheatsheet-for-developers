@@ -2,9 +2,8 @@
 /**
  * Checking what's going to happen when
  * optional chaining is used on example object
- * 
+ *
  * @author Zlatan Stajic <contact@zlatanstajic.com>
- * @since 2021-11-07
  */
 
 class Rider
