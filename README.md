@@ -3,11 +3,11 @@
 
 ## Main Table of Contents
 
-1. [Shell](shell/README.md)
-1. [JavaScript](js/README.md)
-1. [PHP](php/README.md)
-1. [MySQL](mysql/README.md)
-1. [Knowledgebase](knowledgebase/README.md)
+:brain: [Knowledgebase](knowledgebase/README.md)\
+:open_file_folder: [MySQL](mysql/README.md)\
+:symbols: [PHP](php/README.md)\
+:heavy_dollar_sign: [Shell](shell/README.md)\
+:robot: [Snippets](snippets/README.md)
 
 ## Inspiration
 

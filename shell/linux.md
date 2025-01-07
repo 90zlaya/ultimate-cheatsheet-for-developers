@@ -5,26 +5,29 @@ Read more about [Linux](https://www.linux.org/).
 
 ## Table of Contents
 
-1. [Misc](#misc)
-1. [Useful](#useful)
-1. [apt](#apt)
-1. [Directory](#directory)
-1. [File](#file)
-1. [Aliases](#aliases)
+* [Misc](#misc)
+* [Useful](#useful)
+* [Advanced Package Tool](#advanced-package-tool)
+* [Directory](#directory)
+* [File](#file)
+* [Aliases](#aliases)
 
 [↩ back to list of cheatsheets](README.md#list-of-cheatsheets)
 
-1. ### Misc
+## Misc
 
 ```bash
 # Switch to superuser in terminal
 sudo su
 
 # Get list of all processes for app name
-ps -ef | grep <app-name>
+ps -ef | grep [app-name]
 
 # Kill all processes by given name
-killall <process_name>
+killall [process_name]
+
+# Kill a port process
+fuser -k [port-number]/tcp
 
 # Get computer's hostname
 hostname -I
@@ -34,11 +37,17 @@ swapoff -a && swapon -a
 
 # Runs a sound test with static bouncing back and forth
 speaker-test --channels 2 --rate 48000 --device hw:0,3
+
+# Show live date and time
+watch -n 1 date
+
+# Information about how long system has been running
+uptime
 ```
 
 [⬆ back to top](#table-of-contents)
 
-2. ### Useful
+## Useful
 
 ```bash
 # Install & run OS configuration tools
@@ -61,17 +70,17 @@ tree
 
 [⬆ back to top](#table-of-contents)
 
-3. ### apt
+## Advanced Package Tool
 
 ```bash
 # Search packages
-apt-cache search <package-name>
+apt-cache search [package-name]
 
 # Install app
-apt install <app-name>
+apt install [app-name]
 
 # Remove app
-apt remove <app-name>
+apt remove [app-name]
 
 # Update apt
 apt update
@@ -86,12 +95,12 @@ apt upgrade
 apt autoclean
 
 # Remove repository
-add-apt-repository -r ppa:<ppa-to-remove>
+add-apt-repository -r ppa:[ppa-to-remove]
 ```
 
 [⬆ back to top](#table-of-contents)
 
-4. ### Directory
+## Directory
 
 ```bash
 # List current path
@@ -101,58 +110,58 @@ pwd
 ls
 
 # Enter directory
-cd <directory-name>
+cd [directory-name]
 
 # Create new directory
-mkdir <directory-name>
+mkdir [directory-name]
 
 # Copy directory
-cp -R <source-directory>  <destination-directory>
+cp -R [source-directory] [destination-directory]
 
 # Move directory
-mv <directory-name>
+mv [directory-name]
 
 # Remove directory
-rm -d <directory-name>
+rm -d [directory-name]
 
 # Confirm to remove
-rm -i <filename>
+rm -i [filename]
 
 # Remove all files with extension
-rm -fv *.<extension>
+rm -fv *.[extension]
 ```
 
 [⬆ back to top](#table-of-contents)
 
-5. ### File
+## File
 
 ```bash
 # Create shortcut
-ln -s <destination-file> <destination-shortcut>
+ln -s [destination-file] [destination-shortcut]
 
 # Extract tar file
-tar -vxjf <filename>
+tar -vxjf [filename]
 
 # Read file live
-tail -f <filename>
+tail -f [filename]
 
 # Copy file
-cp <source-filename> <location-filename>
+cp [source-filename] [location-filename]
 ```
 
 [⬆ back to top](#table-of-contents)
 
-6. ### Aliases
+## Aliases
 
 ```bash
 # List of aliases
 vim ~/.bashrc
 
 # Create alias
-alias <alias-name>="<command>"
+alias [alias-name]="[command]"
 
 # Remove alias
-unalias <alias-name>
+unalias [alias-name]
 
 # Force list of aliases to reload in current session
 source ~/.bashrc

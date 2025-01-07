@@ -5,17 +5,17 @@ Read more about [MySQL](https://www.mysql.com/).
 
 ## Table of Contents
 
-1. [Misc](#misc)
-1. [Databases](#databases)
-1. [Tables](#tables)
+* [Misc](#misc)
+* [Databases](#databases)
+* [Tables](#tables)
 
 [↩ back to list of cheatsheets](README.md#list-of-cheatsheets)
 
-1. ### Misc
+## Misc
 
 ```bash
 # Login
-mysql -u <username> -p;
+mysql -u [username] -p;
 
 # Get helper
 help;
@@ -29,41 +29,41 @@ exit;
 
 [⬆ back to top](#table-of-contents)
 
-2. ### Databases
+## Databases
 
 ```bash
 # Show all databases
 show databases;
 
 # Create new database
-create database <database-name>;
+create database [database-name];
 
 # Select database
-use <database-name>;
+use [database-name];
 
 # Get used database name
 select database();
 
 # Export database dump (logged out from mysql)
-mysqldump -u <username> -p <database-name> > <file-name>.sql;
+mysqldump -u [username] -p [database-name] > [filename].sql;
 
 # Delete database
-drop database <database-name>;
+drop database [database-name];
 ```
 
 [⬆ back to top](#table-of-contents)
 
-3. ### Tables
+## Tables
 
 ```bash
 # Show all tables
 show tables;
 
 # Show table structure
-describe <table-name>;
+describe [table-name];
 
 # Show indexes on a table
-show index from <table-name>;
+show index from [table-name];
 ```
 
 [⬆ back to top](#table-of-contents)

@@ -1,16 +1,16 @@
-# NPM
+# npm
 > Default package manager for the JavaScript runtime environment Node.js
 
-Read more about [NPM](https://www.npmjs.com/).
+Read more about [npm](https://www.npmjs.com/).
 
 ## Table of Contents
 
-1. [Misc](#misc)
-1. [Install and Remove](#install-and-remove)
+* [Misc](#misc)
+* [Install and Remove](#install-and-remove)
 
 [↩ back to list of cheatsheets](README.md#list-of-cheatsheets)
 
-1. ### Misc
+## Misc
 
 ```bash
 # Where npm was installed
@@ -23,7 +23,7 @@ npm -v
 npm install npm@latest -g
 
 # Searching for packages
-npm search <package-name>
+npm search [package-name]
 
 # Clean cached packages
 npm cache clean --force
@@ -40,7 +40,7 @@ npm audit fix
 
 [⬆ back to top](#table-of-contents)
 
-2. ### Install and Remove
+## Install and Remove
 
 ```bash
 # Listing packages
@@ -50,16 +50,16 @@ npm list
 npm outdated
 
 # Install package
-npm install <package-name>
+npm install [package-name]
 
 # Update package
-npm update <package-name>
+npm update [package-name]
 
 # Remove package
-npm remove <package-name>
+npm remove [package-name]
 
 # Install specific version of a package
-npm install <package-name>@<version>
+npm install [package-name]@[version]
 
 # Remove extraneous packages
 npm prune

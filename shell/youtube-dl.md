@@ -5,22 +5,38 @@ Read more about [youtube-dl](https://youtube-dl.org/).
 
 ## Table of Contents
 
-1. [Misc](#misc)
+* [Misc](#misc)
+* [Install](#install)
+* [Download](#download)
 
 [↩ back to list of cheatsheets](README.md#list-of-cheatsheets)
 
-1. ### Misc
+## Misc
+
+```bash
+# Show version
+youtube-dl --version
+```
+
+[⬆ back to top](#table-of-contents)
+
+## Install
 
 ```bash
 # Download using cURL (install or update) and set permissions
-sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
-sudo chmod a+rx /usr/local/bin/youtube-dl
+sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl && sudo chmod a+rx /usr/local/bin/youtube-dl
+```
 
-# Show version
-youtube-dl --version
+[⬆ back to top](#table-of-contents)
 
+## Download
+
+```bash
 # Download playlist in mp3 format
-youtube-dl -x --audio-format mp3 <playlist-url>
+youtube-dl -x --audio-format mp3 [playlist-url]
+
+# Download single video in mp3 format
+youtube-dl --extract-audio --audio-format mp3 [single-video-url]
 ```
 
 [⬆ back to top](#table-of-contents)
